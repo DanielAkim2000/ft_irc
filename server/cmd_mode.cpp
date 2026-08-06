@@ -54,6 +54,7 @@ void server::execModeChannel(std::vector<std::pair<std::string, std::string> > &
 			if (pair[i].first[0] == '-')
 			{
 				channel_it->second->setPassword("");
+				channel_it->second->removeModes("k");
 			}
 		}
 		if (pair[i].first[1] == 'l')
