@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by cacheoeil.*
+*This project has been created as part of the 42 curriculum by demane, rbourdon, bbouarab.*
 
 # ft_irc
 
